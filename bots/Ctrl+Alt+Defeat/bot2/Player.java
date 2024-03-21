@@ -40,8 +40,23 @@ public class Player {
 
 				getGameState();
 				String[] myPlanets = new String[0];
+				if (myColor.equals("yellow")) {
+					myPlanets = yellowPlanets;
+				}
+				if (myColor.equals("green")) {
+					myPlanets = greenPlanets;
+				}
+				if (myColor.equals("blue")) {
+					myPlanets = bluePlanets;
+				}
+				if (myColor.equals("cyan")) {
+					myPlanets = cyanPlanets;
+				}
+
+				if (myPlanets.length > 0) {
+					napadiNajblizjega(myPlanets);
+				}
 				//String targetPlayer = "";
-				napadiNajblizjega(myPlanets);
 
 				/*
 
@@ -91,30 +106,30 @@ public class Player {
 			//aka napadi tudi soigralca, da mu daš mal moči
 			vsiPlaneti = mergeArrays(bluePlanets, blueFleets, greenPlanets, greenFleets,cyanPlanets, cyanFleets, neutralPlanets);
 
-		} else if(situacija == 2 && getColor(mojPlanet) == "cyan"){ //2. my cyan planets are winning and the yellow planets are loosing
+		} else if(situacija == 2 && getColor(mojPlanet).equals("cyan")){ //2. my cyan planets are winning and the yellow planets are loosing
 			//aka napadi tudi soigralca, da mu daš mal moči
 			vsiPlaneti = mergeArrays(bluePlanets, blueFleets, greenPlanets, greenFleets, yellowPlanets, yellowFleets,neutralPlanets);
 
-		} else if (situacija == 3 && (getColor(mojPlanet) == "yellow" || getColor(mojPlanet) == "cyan")){ //3. both my yellow and cyan planets are winning
+		} else if (situacija == 3 && (getColor(mojPlanet).equals("yellow") || getColor(mojPlanet).equals("cyan"))){ //3. both my yellow and cyan planets are winning
 			vsiPlaneti = mergeArrays(bluePlanets, blueFleets, greenPlanets, greenFleets,neutralPlanets);
 
-		} else if(situacija == 4 && getColor(mojPlanet) == "blue"){ //4.  my blue planets are winning and the green ones are loosing
+		} else if(situacija == 4 && getColor(mojPlanet).equals("blue")){ //4.  my blue planets are winning and the green ones are loosing
 			//aka napadi tudi soigralca, da mu daš mal moči
 			vsiPlaneti = mergeArrays(cyanPlanets, cyanFleets, yellowPlanets, yellowFleets,greenPlanets, greenFleets, neutralPlanets);
-		} else if (situacija == 5 && getColor(mojPlanet) == "green"){ //5. my green planets are winning and the blue ones are loosing
+		} else if (situacija == 5 && getColor(mojPlanet).equals("green")){ //5. my green planets are winning and the blue ones are loosing
 			//aka napadi tudi soigralca, da mu daš mal moči
 			vsiPlaneti = mergeArrays(cyanPlanets, cyanFleets, yellowPlanets, yellowFleets, bluePlanets, blueFleets,neutralPlanets);
-		} else if (situacija == 6 && (getColor(mojPlanet) == "blue" || getColor(mojPlanet) == "green")){ //6 both my green and blue planets are winning
+		} else if (situacija == 6 && (getColor(mojPlanet).equals("blue") || getColor(mojPlanet).equals("green"))){ //6 both my green and blue planets are winning
 			vsiPlaneti = mergeArrays(cyanPlanets, cyanFleets, yellowPlanets, yellowFleets, neutralPlanets);
 		} else { //both of my planets are winning
 
-			if (getColor(mojPlanet) == "green") {
+			if (getColor(mojPlanet).equals("green")) {
 				vsiPlaneti = mergeArrays(cyanPlanets, cyanFleets, yellowPlanets, yellowFleets, neutralPlanets);
-			} else if (getColor(mojPlanet) == "blue") {
+			} else if (getColor(mojPlanet).equals("blue")) {
 				vsiPlaneti = mergeArrays(cyanPlanets, cyanFleets, yellowPlanets, yellowFleets, neutralPlanets);
-			} else if (getColor(mojPlanet) == "cyan") {
+			} else if (getColor(mojPlanet).equals("cyan")) {
 				vsiPlaneti = mergeArrays(bluePlanets, blueFleets, greenPlanets, greenFleets, neutralPlanets);
-			} else if (getColor(mojPlanet) == "yellow") {
+			} else if (getColor(mojPlanet).equals("yellow")) {
 				vsiPlaneti = mergeArrays(bluePlanets, blueFleets, greenPlanets, greenFleets, neutralPlanets);
 			}
 
@@ -131,21 +146,34 @@ public class Player {
 	public static void napadiNajblizjega(String [] myPlanets) {
 		double[] najDistance = new double[myPlanets.length]; //za vsak planet bomo shranl distanco
 		String[] najPlanet = new String[myPlanets.length]; //najblizji planet za vsak nas planet
-
+		try {
+			logToFile("DREk");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		for (int i = 0; i < myPlanets.length; i++) {
 			String mojPlanet = myPlanets[i];
 			int mojPlanetX = getX(mojPlanet);
 			int mojPlanetY = getY(mojPlanet);
-
+			try {
+				logToFile("X: " + myPlanets.length);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 
 			double najDistanca = Double.MAX_VALUE; //najprej nej bo najbl oddaljena distanca najblizja
 			String najblizjiPlanet = null; //najprej nej bo najblizji noben
 
-			vsiPlaneti = new String[1];
-
 			//kdo je moj target?
-			vsiPlaneti = napad(myPlanets);
-
+			String[] vsiPlaneti = napad(myPlanets);
+			try {
+				logToFile("L: " + vsiPlaneti.length);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			for (int j = 0; j < vsiPlaneti.length; j++) {
 				String planet = vsiPlaneti[j]; //extractamo po en planet od useh
 				if (!planet.equals(mojPlanet)) {
@@ -172,15 +200,9 @@ public class Player {
 		//zdej pa zavzamemo najblizji neutraln planet
 		minIndex = 0;
 		for (int i = 0; i < najPlanet.length; i++) {
-			if (najDistance[i] < najDistance[minIndex]) {
-				minIndex = i;
-			}
+			System.out.println("A " + getName(myPlanets[i]) + " " + getName(najPlanet[i]));
 		}
 
-		//napadi planet z min indexom..
-		String targetPlanet = najPlanet[minIndex];
-		//za attack komando
-		System.out.println("A " + myPlanets[minIndex] + " ");
 	}
 
 
@@ -203,6 +225,12 @@ public class Player {
 		return rez;
 	}
 
+	public static int getName(String planet){
+		//planet sestavljen iz P 0 51 80 1.0 100 green (x je drugi)
+		String [] format = planet.split(" ");
+		return Integer.parseInt(format[1]);
+	}
+
 	//dobi X kooridnato
 	public static int getX(String planet){
 		//planet sestavljen iz P 0 51 80 1.0 100 green (x je drugi)
@@ -220,19 +248,19 @@ public class Player {
 	public static String getColor(String planet){
 		//planet sestavljen iz P 0 51 80 1.0 100 green (color je sedmi)
 		String [] format = planet.split(" ");
-		return format[7];
+		return format[6];
 	}
 	//dobi planet size
 	public static float getPlanetSize(String planet){
 		//planet sestavljen iz P 0 51 80 1.0 100 green (planet size je peti)
 		String [] format = planet.split(" ");
-		return Float.parseFloat(format[5]);
+		return Float.parseFloat(format[4]);
 	}
 	//dobi planet fleets
 	public static int getPlanetFleets(String planet){
 		//planet sestavljen iz P 0 51 80 1.0 100 green (fleet size je sesti)
 		String [] format = planet.split(" ");
-		return Integer.parseInt(format[6]);
+		return Integer.parseInt(format[5]);
 	}
 
 	//kategorizacija situacije
@@ -247,32 +275,32 @@ public class Player {
 
 		//situacije:
 		//1. my yellow planets are winning and the cyan ones are loosing
-		if (getColor(mojPlanet) == "yellow"
+		if (getColor(mojPlanet).equals("yellow")
 				&& Arrays.stream(yellowPlanets).anyMatch(Arrays.asList(myPlanets)::contains)
 				&& Arrays.stream(cyanPlanets).noneMatch(Arrays.asList(myPlanets)::contains)) {
 			situacija = 1;
 			//2. my cyan planets are winning and the yellow planets are loosing
-		} else if (getColor(mojPlanet) == "cyan"
+		} else if (getColor(mojPlanet).equals("cyan")
 				&& Arrays.stream(cyanPlanets).anyMatch(Arrays.asList(myPlanets)::contains)
 				&& Arrays.stream(yellowPlanets).noneMatch(Arrays.asList(myPlanets)::contains)) {
 			situacija = 2;
 			//3. both my yellow and cyan planets are winning
-		} else if ((getColor(mojPlanet) == "yellow" || getColor(mojPlanet) == "cyan")
+		} else if ((getColor(mojPlanet).equals("yellow") || getColor(mojPlanet).equals("cyan"))
 				&& Arrays.stream(yellowPlanets).anyMatch(Arrays.asList(myPlanets)::contains)
 				&& Arrays.stream(cyanPlanets).anyMatch(Arrays.asList(myPlanets)::contains)) {
 			situacija = 3;
 			//4.  my blue planets are winning and the green ones are loosing
-		}else if (getColor(mojPlanet) == "blue"
+		}else if (getColor(mojPlanet).equals("blue")
 				&& Arrays.stream(bluePlanets).anyMatch(Arrays.asList(myPlanets)::contains)
 				&& Arrays.stream(greenPlanets).noneMatch(Arrays.asList(myPlanets)::contains)) {
 			situacija = 4;
 			//5. my green planets are winning and the blue ones are loosing
-		}else if (getColor(mojPlanet) == "green"
+		}else if (getColor(mojPlanet).equals("green")
 				&& Arrays.stream(greenPlanets).anyMatch(Arrays.asList(myPlanets)::contains)
 				&& Arrays.stream(bluePlanets).noneMatch(Arrays.asList(myPlanets)::contains)) {
 			situacija = 5;
 			//6 both my green and blue planets are winning
-		}else if ((getColor(mojPlanet) == "green" || getColor(mojPlanet) == "blue")
+		}else if ((getColor(mojPlanet).equals("green") || getColor(mojPlanet).equals("blue"))
 				&& Arrays.stream(greenPlanets).anyMatch(Arrays.asList(myPlanets)::contains)
 				&& Arrays.stream(bluePlanets).anyMatch(Arrays.asList(myPlanets)::contains)) {
 			situacija = 6;
@@ -380,19 +408,19 @@ public class Player {
 			if (firstLetter == 'P') {
 				String plantetName = tokens[1];
 				if (tokens[6].equals("blue")) {
-					bluePlanetsList.add(plantetName);
+					bluePlanetsList.add(line);
 				}
 				if (tokens[6].equals("cyan")) {
-					cyanPlanetsList.add(plantetName);
+					cyanPlanetsList.add(line);
 				}
 				if (tokens[6].equals("green")) {
-					greenPlanetsList.add(plantetName);
+					greenPlanetsList.add(line);
 				}
 				if (tokens[6].equals("yellow")) {
-					yellowPlanetsList.add(plantetName);
+					yellowPlanetsList.add(line);
 				}
 				if (tokens[6].equals("null")) {
-					neutralPlanetsList.add(plantetName);
+					neutralPlanetsList.add(line);
 				}
 			}
 		}

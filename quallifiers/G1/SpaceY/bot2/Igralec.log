@@ -1,0 +1,2598 @@
+A 1 3 15
+A 1 3 -30
+A 1 3 -171
+A 1 3 -258
+A 1 3 -315
+A 1 3 -360
+A 1 3 -396
+A 1 3 -429
+A 1 4 120
+A 3 4 120
+A 1 4 84
+A 3 4 84
+A 1 4 -21
+A 3 4 -21
+A 1 4 -135
+A 3 4 -135
+A 1 4 -234
+A 3 4 -234
+A 1 4 -286
+A 3 4 -286
+A 1 4 -322
+A 3 4 -322
+A 1 4 -358
+A 3 4 -358
+A 1 10 15
+A 3 10 15
+A 4 10 15
+A 1 10 -96
+A 3 10 -96
+A 4 10 -96
+A 1 10 -174
+A 3 10 -174
+A 4 10 -174
+A 1 10 -279
+A 3 10 -279
+A 4 10 -279
+A 1 10 -393
+A 3 10 -393
+A 4 10 -393
+A 1 10 -492
+A 3 10 -492
+A 4 10 -492
+A 1 10 -585
+A 3 10 -585
+A 4 10 -585
+A 1 10 -675
+A 3 10 -675
+A 4 10 -675
+A 1 10 -765
+A 3 10 -765
+A 4 10 -765
+A 1 10 -841
+A 3 10 -841
+A 4 10 -841
+A 1 8 135
+A 3 8 135
+A 4 8 135
+A 10 13 45
+A 1 8 63
+A 3 8 63
+A 4 8 63
+A 10 13 45
+A 1 8 -3
+A 3 8 -3
+A 4 8 -3
+A 10 13 39
+A 1 8 -63
+A 3 8 -63
+A 4 8 -63
+A 10 13 9
+A 1 8 -123
+A 3 8 -123
+A 4 8 -123
+A 10 13 -18
+A 1 8 -180
+A 3 8 -180
+A 4 8 -180
+A 10 13 -81
+A 1 8 -237
+A 3 8 -237
+A 4 8 -237
+A 10 13 -156
+A 1 8 -294
+A 3 8 -294
+A 4 8 -294
+A 10 13 -252
+A 1 8 -351
+A 3 8 -351
+A 4 8 -351
+A 10 13 -345
+A 1 8 -408
+A 3 8 -408
+A 4 8 -408
+A 10 13 -438
+A 1 8 -465
+A 3 8 -465
+A 4 8 -465
+A 10 13 -534
+A 1 8 -522
+A 3 8 -522
+A 4 8 -522
+A 10 13 -636
+A 1 8 -579
+A 3 8 -579
+A 4 8 -579
+A 10 13 -744
+A 1 8 -636
+A 3 8 -636
+A 4 8 -636
+A 10 13 -822
+A 1 8 -693
+A 3 8 -693
+A 4 8 -693
+A 10 13 -882
+A 1 8 -750
+A 3 8 -750
+A 4 8 -750
+A 10 13 -930
+A 1 8 -807
+A 3 8 -807
+A 4 8 -807
+A 10 13 -972
+A 1 8 -864
+A 3 8 -864
+A 4 8 -864
+A 10 13 -993
+A 1 8 -921
+A 3 8 -921
+A 4 8 -921
+A 10 13 -993
+A 1 8 -963
+A 3 8 -963
+A 4 8 -963
+A 10 13 -991
+A 1 8 -1005
+A 3 8 -1005
+A 4 8 -1005
+A 10 8 -1005
+A 13 9 132
+A 1 8 -1053
+A 3 8 -1053
+A 4 8 -1053
+A 10 8 -1053
+A 13 9 139
+A 1 8 -1098
+A 3 8 -1098
+A 4 8 -1098
+A 10 8 -1098
+A 13 9 118
+A 1 8 -1141
+A 3 8 -1141
+A 4 8 -1141
+A 10 8 -1141
+A 13 9 76
+A 1 8 -1185
+A 3 8 -1185
+A 4 8 -1185
+A 10 8 -1185
+A 13 9 25
+A 1 8 -1228
+A 3 8 -1228
+A 4 8 -1228
+A 10 8 -1228
+A 13 9 -10
+A 1 8 -1272
+A 3 8 -1272
+A 4 8 -1272
+A 10 8 -1272
+A 13 9 -82
+A 1 9 -184
+A 3 9 -184
+A 4 9 -184
+A 8 5 105
+A 10 9 -184
+A 13 9 -184
+A 1 9 -351
+A 3 9 -351
+A 4 9 -351
+A 8 5 78
+A 10 9 -351
+A 13 9 -351
+A 1 9 -499
+A 3 9 -499
+A 4 9 -499
+A 8 5 18
+A 10 9 -499
+A 13 9 -499
+A 1 5 -36
+A 3 24 61
+A 4 24 61
+A 8 5 -36
+A 10 24 61
+A 13 24 61
+A 1 5 -156
+A 3 24 -49
+A 4 24 -49
+A 8 5 -156
+A 10 24 -49
+A 13 24 -49
+A 1 5 -273
+A 3 24 -147
+A 4 24 -147
+A 8 5 -273
+A 10 24 -147
+A 13 28 16
+A 1 5 -387
+A 3 24 -184
+A 4 24 -184
+A 8 5 -387
+A 9 28 -31
+A 10 24 -184
+A 13 28 -31
+A 1 5 -501
+A 3 24 -220
+A 4 24 -220
+A 8 5 -501
+A 9 28 -76
+A 10 26 283
+There exists no such planet.
+A 1 5 -615
+A 3 5 -615
+A 4 5 -615
+A 8 5 -615
+A 9 17 13
+A 10 26 223
+There exists no such planet.
+A 1 5 -756
+A 3 5 -756
+A 4 5 -756
+A 8 5 -756
+A 9 17 -25
+A 10 26 177
+There exists no such planet.
+A 1 5 -897
+A 3 5 -897
+A 4 5 -897
+A 8 5 -897
+A 9 17 -91
+A 10 26 138
+There exists no such planet.
+A 1 5 -1038
+A 3 5 -1038
+A 4 5 -1038
+A 8 5 -1038
+A 9 26 102
+A 10 26 102
+There exists no such planet.
+A 1 5 -1179
+A 3 5 -1179
+A 4 5 -1179
+A 8 5 -1179
+A 9 5 -1179
+A 10 28 -121
+There exists no such planet.
+A 1 9 -34
+A 3 9 -34
+A 4 9 -34
+A 8 5 -1338
+A 10 9 -34
+A 13 9 -34
+A 1 9 -127
+A 3 9 -127
+A 4 9 -127
+A 8 5 -1422
+A 10 9 -127
+There exists no such planet.
+A 1 9 -192
+A 3 9 -192
+A 4 9 -192
+A 8 5 -1506
+A 10 9 -192
+There exists no such planet.
+A 1 9 -264
+A 3 9 -264
+A 4 9 -264
+A 8 5 -1593
+A 10 9 -264
+There exists no such planet.
+A 1 9 -337
+A 3 9 -337
+A 4 9 -337
+A 8 5 -1680
+A 10 13 90
+There exists no such planet.
+A 1 5 -1753
+A 3 13 115
+A 4 9 -409
+A 8 5 -1753
+A 10 13 115
+There exists no such planet.
+A 24 13 115
+A 1 5 -1840
+A 3 5 -1840
+A 4 5 -1840
+A 8 5 -1840
+A 10 13 84
+There exists no such planet.
+A 24 13 84
+A 1 5 -1942
+A 3 5 -1942
+A 4 5 -1942
+A 8 5 -1942
+A 10 28 -124
+There exists no such planet.
+A 24 31 10
+A 1 28 -127
+A 3 28 -127
+A 4 28 -127
+A 5 33 120
+A 8 28 -127
+A 10 28 -127
+There exists no such planet.
+A 24 31 -19
+A 1 28 -243
+A 3 28 -243
+A 4 28 -243
+A 5 33 111
+A 8 33 111
+A 10 28 -243
+There exists no such planet.
+A 24 31 -40
+A 1 13 13
+A 3 13 13
+A 4 13 13
+A 5 33 -6
+A 8 13 13
+A 10 13 13
+A 24 13 13
+A 28 32 45
+A 1 33 -87
+A 3 33 -87
+A 4 13 -126
+A 5 33 -87
+A 8 33 -87
+A 10 17 -166
+There exists no such planet.
+A 28 32 36
+A 1 24 36
+A 3 24 36
+A 4 24 36
+A 5 33 -267
+A 8 24 36
+A 10 24 36
+A 28 24 36
+A 1 24 -135
+A 3 10 19
+A 4 10 19
+A 5 33 -366
+A 8 33 -366
+There exists no such planet.
+A 28 32 33
+A 1 24 -175
+A 3 24 -175
+A 4 24 -175
+A 5 33 -495
+A 8 33 -495
+There exists no such planet.
+A 28 32 28
+A 1 33 -627
+A 3 10 16
+A 4 24 -246
+A 5 33 -627
+A 8 33 -627
+There exists no such planet.
+A 28 32 25
+A 1 33 -789
+A 3 10 22
+A 4 10 22
+A 5 33 -789
+A 8 33 -789
+There exists no such planet.
+A 28 32 22
+A 1 33 -946
+A 3 33 -946
+A 4 33 -946
+A 5 33 -946
+A 8 33 -946
+There exists no such planet.
+A 28 32 6
+A 1 33 -1105
+A 3 10 13
+A 4 33 -1105
+A 5 33 -1105
+A 8 33 -1105
+There exists no such planet.
+There exists no such planet.
+A 1 33 -1246
+A 3 10 19
+A 4 10 19
+A 5 33 -1246
+A 8 33 -1246
+There exists no such planet.
+A 17 28 117
+There exists no such planet.
+A 1 29 60
+A 3 32 -15
+A 4 32 -15
+A 5 32 -15
+A 8 32 -15
+A 9 28 141
+There exists no such planet.
+A 17 28 141
+There exists no such planet.
+A 33 29 60
+A 1 29 30
+A 3 29 30
+A 4 29 30
+A 5 29 30
+A 8 29 30
+A 9 30 219
+There exists no such planet.
+A 13 30 219
+A 17 28 105
+There exists no such planet.
+A 33 29 30
+A 1 29 -234
+A 3 29 -234
+A 4 29 -234
+A 5 29 -234
+A 8 29 -234
+A 9 30 196
+There exists no such planet.
+A 13 30 196
+There exists no such planet.
+There exists no such planet.
+A 33 29 -234
+A 1 29 -516
+A 3 29 -516
+A 4 29 -516
+A 5 29 -516
+A 8 29 -516
+A 9 30 168
+A 10 15 199
+A 13 30 168
+There exists no such planet.
+There exists no such planet.
+A 33 29 -516
+A 1 29 -816
+A 3 29 -816
+A 4 29 -816
+A 5 29 -816
+A 8 29 -816
+A 9 30 136
+There exists no such planet.
+A 13 30 136
+There exists no such planet.
+There exists no such planet.
+A 33 29 -816
+A 1 29 -1119
+A 3 10 19
+A 4 10 19
+A 5 29 -1119
+A 8 29 -1119
+A 9 31 -55
+There exists no such planet.
+A 13 31 -55
+There exists no such planet.
+There exists no such planet.
+A 33 29 -1119
+A 1 29 -1395
+A 3 29 -1395
+A 4 29 -1395
+A 5 29 -1395
+A 8 29 -1395
+A 9 30 121
+A 10 15 210
+A 13 31 -109
+There exists no such planet.
+There exists no such planet.
+A 33 29 -1395
+A 1 28 70
+A 3 28 70
+A 4 28 70
+A 5 29 -1686
+A 8 28 70
+A 9 28 70
+There exists no such planet.
+A 13 28 70
+There exists no such planet.
+A 33 29 -1686
+A 1 28 -43
+A 3 10 16
+A 4 28 -43
+A 5 29 -1878
+A 8 28 -43
+A 9 28 -43
+There exists no such planet.
+A 13 28 -43
+There exists no such planet.
+A 33 29 -1878
+A 1 10 12
+A 3 10 12
+A 4 10 12
+A 5 29 -2016
+A 8 10 12
+A 9 10 12
+A 13 10 12
+There exists no such planet.
+A 33 29 -2016
+A 1 28 -225
+A 3 28 -225
+A 4 28 -225
+A 5 19 16
+A 8 17 339
+A 9 17 339
+A 13 30 180
+There exists no such planet.
+A 29 19 16
+A 31 23 427
+A 32 19 16
+A 33 19 16
+A 1 28 -280
+There exists no such planet.
+A 4 28 -280
+A 5 19 -127
+A 8 17 336
+A 9 17 336
+A 13 30 198
+There exists no such planet.
+A 29 19 -127
+A 31 23 406
+A 32 17 336
+A 33 19 -127
+A 1 28 -313
+There exists no such planet.
+A 4 28 -313
+A 5 17 309
+A 8 17 309
+A 9 17 309
+A 13 30 214
+There exists no such planet.
+A 24 17 309
+A 29 17 309
+A 31 23 372
+A 32 17 309
+A 33 17 309
+A 1 33 -466
+There exists no such planet.
+A 4 3 10
+A 5 23 334
+A 8 19 -250
+A 9 30 235
+A 13 30 235
+There exists no such planet.
+A 24 30 235
+A 29 23 334
+There exists no such planet.
+A 32 23 334
+A 1 33 -484
+A 3 28 -331
+A 4 28 -331
+A 5 17 87
+A 8 17 87
+A 9 17 87
+A 13 30 225
+A 24 17 87
+A 29 17 87
+A 32 17 87
+A 1 33 -516
+There exists no such planet.
+A 4 28 -367
+A 5 31 31
+A 8 19 -277
+A 9 30 249
+A 13 30 249
+A 24 31 31
+A 29 31 31
+A 32 31 31
+A 1 3 12
+There exists no such planet.
+A 4 3 12
+A 5 23 93
+A 8 30 231
+A 9 30 231
+A 13 30 231
+A 24 30 231
+A 29 23 93
+A 32 23 93
+A 1 33 -519
+A 3 33 -519
+A 4 33 -519
+A 5 27 168
+A 8 27 168
+A 9 30 145
+A 10 33 -519
+A 13 30 145
+A 24 30 145
+A 29 27 168
+A 32 27 168
+A 1 19 -304
+A 3 30 82
+A 4 30 82
+A 5 30 82
+A 8 30 82
+A 9 30 82
+A 10 30 82
+A 13 30 82
+A 24 30 82
+A 29 30 82
+A 32 30 82
+A 33 30 82
+A 1 32 6
+A 3 32 6
+A 4 32 6
+A 5 32 6
+A 8 32 6
+A 9 24 60
+A 10 32 6
+A 13 32 6
+There exists no such planet.
+A 29 32 6
+A 33 32 6
+A 1 32 -135
+A 3 32 -135
+A 4 32 -135
+A 5 27 -7
+A 8 27 -7
+A 9 24 85
+A 10 32 -135
+A 13 27 -7
+There exists no such planet.
+A 29 27 -7
+A 33 27 -7
+A 1 19 -331
+A 3 19 -331
+A 4 19 -331
+A 5 20 4
+A 8 25 28
+A 9 24 126
+A 10 19 -331
+A 13 24 126
+There exists no such planet.
+A 29 20 4
+A 33 20 4
+A 1 3 -1
+A 4 3 -1
+A 5 3 -1
+A 8 24 145
+A 9 24 145
+A 10 3 -1
+A 13 24 145
+There exists no such planet.
+A 29 3 -1
+A 33 3 -1
+A 1 19 -418
+A 4 19 -418
+A 5 20 -31
+A 8 25 -1
+A 9 24 129
+A 10 19 -418
+A 13 24 129
+There exists no such planet.
+A 29 20 -31
+A 33 20 -31
+A 1 25 -28
+A 4 22 7
+A 5 21 25
+A 8 25 -28
+A 9 24 123
+A 10 25 -28
+A 13 24 123
+There exists no such planet.
+A 29 21 25
+A 33 21 25
+A 1 25 -94
+A 4 22 -13
+A 5 21 -199
+A 8 25 -94
+A 9 24 106
+A 10 25 -94
+A 13 24 106
+There exists no such planet.
+A 29 21 -199
+A 33 21 -199
+A 1 25 -193
+A 3 25 -193
+A 4 22 -40
+A 5 21 -301
+A 8 25 -193
+A 9 24 106
+A 10 25 -193
+A 13 24 106
+There exists no such planet.
+A 29 21 -301
+A 33 21 -301
+A 1 15 -7
+A 3 15 -7
+A 4 15 -7
+A 5 21 -388
+A 8 25 -277
+A 9 24 105
+A 10 15 -7
+A 13 24 105
+There exists no such planet.
+A 29 21 -388
+A 33 21 -388
+A 1 15 -82
+A 3 15 -82
+A 4 15 -82
+A 5 21 -454
+A 8 25 -304
+A 9 24 96
+A 10 26 499
+A 13 24 96
+There exists no such planet.
+A 29 21 -454
+A 33 21 -454
+A 1 15 -133
+A 3 15 -133
+A 4 15 -133
+A 5 21 -505
+A 8 25 -331
+A 9 24 85
+A 10 26 531
+A 13 26 531
+A 19 21 -505
+There exists no such planet.
+A 29 21 -505
+A 32 21 -505
+A 33 21 -505
+A 1 15 -184
+A 3 25 -358
+A 4 22 -60
+A 5 21 -580
+A 8 26 552
+A 9 24 96
+A 10 26 552
+A 13 24 96
+A 19 21 -580
+There exists no such planet.
+A 29 27 -96
+A 32 21 -580
+A 33 21 -580
+A 1 27 -90
+A 3 25 -376
+A 4 22 -81
+A 5 21 -643
+A 8 26 550
+A 9 24 97
+A 10 26 550
+A 13 24 97
+A 17 26 550
+A 19 21 -643
+There exists no such planet.
+A 29 27 -90
+A 32 21 -643
+A 33 27 -90
+A 1 26 498
+A 3 26 498
+A 4 26 498
+A 5 26 498
+A 8 26 498
+A 9 24 94
+A 10 26 498
+A 13 24 94
+A 17 26 498
+A 19 26 498
+There exists no such planet.
+A 28 24 94
+A 29 26 498
+A 32 26 498
+A 33 26 498
+A 1 26 259
+A 3 26 259
+A 4 26 259
+A 5 26 259
+A 8 26 259
+A 9 24 49
+A 10 26 259
+A 13 26 259
+A 17 26 259
+A 19 26 259
+There exists no such planet.
+A 28 26 259
+A 29 26 259
+A 32 26 259
+A 33 26 259
+A 1 24 42
+A 3 24 42
+A 4 24 42
+A 5 24 42
+A 8 24 42
+A 9 24 42
+A 10 24 42
+A 13 24 42
+A 17 24 42
+A 19 24 42
+A 28 24 42
+A 29 24 42
+A 32 24 42
+A 33 24 42
+A 1 26 -112
+A 3 26 -112
+A 4 24 -243
+A 5 23 -58
+A 8 26 -112
+A 9 26 -112
+A 10 26 -112
+A 13 26 -112
+A 17 26 -112
+A 19 26 -112
+A 28 26 -112
+A 29 24 -243
+A 31 26 -112
+A 32 26 -112
+A 33 23 -58
+A 1 26 -342
+A 3 26 -342
+A 4 26 -342
+A 5 26 -342
+A 8 26 -342
+There exists no such planet.
+A 10 26 -342
+A 13 7 177
+A 17 26 -342
+A 19 26 -342
+A 28 26 -342
+A 29 23 -67
+A 31 26 -342
+A 32 26 -342
+A 33 23 -67
+A 1 26 -594
+A 3 23 -84
+A 4 26 -594
+A 5 26 -594
+A 8 25 -397
+There exists no such planet.
+A 10 7 231
+A 13 7 231
+A 17 18 31
+A 19 26 -594
+A 28 25 -397
+A 29 26 -594
+A 31 18 31
+A 32 26 -594
+A 33 26 -594
+A 1 23 -55
+A 3 7 277
+A 4 7 277
+A 5 23 -55
+A 8 7 277
+There exists no such planet.
+A 10 7 277
+A 13 7 277
+A 17 7 277
+A 19 18 -1
+A 28 7 277
+A 29 23 -55
+A 31 18 -1
+A 32 21 -697
+A 33 23 -55
+A 1 25 -454
+A 3 25 -454
+A 4 25 -454
+A 5 21 -709
+A 8 25 -454
+There exists no such planet.
+A 10 25 -454
+A 13 7 169
+A 17 18 -112
+A 19 18 -112
+A 28 25 -454
+A 29 21 -709
+A 31 18 -112
+A 32 21 -709
+A 33 21 -709
+A 1 23 -82
+A 3 23 -82
+A 4 25 -565
+A 5 21 -784
+A 8 25 -565
+There exists no such planet.
+A 10 25 -565
+A 13 9 118
+A 17 18 -193
+A 19 18 -193
+A 28 25 -565
+A 29 21 -784
+A 31 18 -193
+A 32 25 -565
+A 33 21 -784
+A 1 7 228
+A 3 7 228
+A 4 7 228
+A 5 31 -165
+A 8 7 228
+There exists no such planet.
+A 10 7 228
+A 13 9 132
+A 17 7 228
+A 19 7 228
+A 28 7 228
+A 29 31 -165
+A 32 7 228
+A 33 31 -165
+A 1 7 90
+A 3 7 90
+A 4 7 90
+A 5 23 -22
+A 8 7 90
+There exists no such planet.
+A 10 7 90
+A 13 9 135
+A 17 7 90
+A 19 23 -22
+A 28 23 -22
+A 29 23 -22
+A 30 7 90
+A 32 23 -22
+A 33 23 -22
+A 1 7 -46
+A 3 7 -46
+A 4 7 -46
+A 5 7 -46
+A 8 7 -46
+There exists no such planet.
+A 10 7 -46
+A 13 9 127
+A 17 7 -46
+A 19 7 -46
+A 28 7 -46
+A 29 7 -46
+A 30 7 -46
+A 32 7 -46
+A 33 7 -46
+A 1 31 -246
+A 3 31 -246
+A 4 31 -246
+A 5 25 -646
+A 8 25 -646
+There exists no such planet.
+A 10 25 -646
+A 13 9 117
+A 17 18 -235
+A 19 18 -235
+A 24 9 117
+A 28 25 -646
+A 29 7 -349
+A 30 18 -235
+A 32 25 -646
+A 33 7 -349
+A 1 9 87
+A 3 9 87
+A 4 9 87
+A 5 9 87
+A 8 9 87
+A 10 9 87
+A 13 9 87
+A 17 9 87
+A 19 9 87
+A 24 9 87
+A 28 9 87
+A 29 9 87
+A 30 18 -304
+A 32 9 87
+A 33 9 87
+A 1 9 -117
+A 3 9 -117
+A 4 9 -117
+A 5 9 -117
+A 8 9 -117
+A 10 9 -117
+A 13 18 -370
+A 17 9 -117
+A 19 9 -117
+A 24 18 -370
+A 28 9 -117
+A 29 9 -117
+A 30 18 -370
+A 32 9 -117
+A 33 9 -117
+A 1 9 -319
+A 3 9 -319
+A 4 9 -319
+A 5 9 -319
+A 8 25 -718
+A 10 25 -718
+A 13 18 -436
+A 17 18 -436
+A 19 9 -319
+A 23 9 -319
+A 24 18 -436
+A 28 18 -436
+A 29 9 -319
+A 30 9 -319
+A 32 9 -319
+A 33 9 -319
+A 1 23 -97
+A 3 23 -97
+A 4 25 -748
+A 5 25 -748
+A 8 25 -748
+A 10 25 -748
+A 13 18 -499
+A 17 18 -499
+A 19 18 -499
+A 24 18 -499
+A 28 18 -499
+A 29 21 -853
+A 30 11 192
+A 32 25 -748
+A 33 25 -748
+A 1 25 -856
+A 3 25 -856
+A 4 25 -856
+A 5 25 -856
+A 8 18 -580
+A 10 16 21
+A 13 18 -580
+A 17 18 -580
+A 19 18 -580
+A 24 18 -580
+A 28 18 -580
+A 29 21 -889
+There exists no such planet.
+A 32 25 -856
+A 33 25 -856
+A 1 25 -970
+A 3 16 3
+A 4 31 -288
+A 5 18 -667
+A 8 18 -667
+A 10 16 3
+A 13 18 -667
+A 17 16 3
+A 19 18 -667
+A 24 18 -667
+A 28 18 -667
+A 29 21 -928
+There exists no such planet.
+A 32 18 -667
+A 33 25 -970
+A 1 17 -93
+A 3 17 -93
+A 4 17 -93
+A 5 17 -93
+A 8 17 -93
+A 10 17 -93
+A 13 17 -93
+A 19 17 -93
+A 24 17 -93
+A 28 12 99
+A 29 17 -93
+There exists no such planet.
+A 32 17 -93
+A 33 17 -93
+A 1 21 -967
+A 3 12 45
+A 4 17 -339
+A 5 18 -796
+A 8 18 -796
+A 10 12 45
+A 13 30 178
+A 19 18 -796
+A 24 30 178
+A 28 30 178
+A 29 25 -1024
+There exists no such planet.
+A 32 18 -796
+A 33 25 -1024
+A 1 24 -102
+A 3 24 -102
+A 4 24 -102
+A 5 24 -102
+A 8 24 -102
+A 10 24 -102
+A 13 30 169
+A 19 24 -102
+A 28 30 169
+A 29 24 -102
+A 32 24 -102
+A 33 24 -102
+A 1 11 247
+A 3 11 247
+A 4 11 247
+A 5 30 130
+A 8 30 130
+A 10 11 247
+A 13 30 130
+A 17 30 130
+A 19 30 130
+A 28 30 130
+A 29 30 130
+A 31 30 130
+A 32 30 130
+A 33 30 130
+A 1 11 187
+A 3 11 187
+A 4 11 187
+A 5 31 -142
+A 8 31 -142
+A 10 11 187
+There exists no such planet.
+A 19 30 -64
+A 28 30 -64
+A 29 31 -142
+A 32 30 -64
+A 33 31 -142
+A 1 11 102
+A 3 11 102
+A 4 11 102
+A 5 30 -139
+A 8 30 -139
+A 10 11 102
+There exists no such planet.
+A 17 11 102
+A 19 30 -139
+A 28 30 -139
+A 29 30 -139
+A 32 30 -139
+A 33 30 -139
+A 1 11 -22
+A 3 11 -22
+A 4 11 -22
+A 5 11 -22
+A 8 11 -22
+A 10 11 -22
+There exists no such planet.
+A 17 11 -22
+A 19 18 -886
+A 28 11 -22
+A 29 11 -22
+A 32 11 -22
+A 33 11 -22
+A 1 11 -303
+A 3 11 -303
+A 4 11 -303
+A 5 17 -123
+A 7 0 183
+A 8 17 -123
+A 10 0 183
+There exists no such planet.
+A 19 18 -901
+There exists no such planet.
+A 29 17 -123
+A 32 17 -123
+A 33 17 -123
+A 1 17 -199
+A 3 17 -199
+A 4 17 -199
+A 5 11 -396
+A 7 0 156
+A 8 17 -199
+A 10 17 -199
+There exists no such planet.
+A 19 18 -916
+There exists no such planet.
+A 29 17 -199
+A 32 11 -396
+A 33 17 -199
+A 1 17 -316
+A 3 17 -316
+A 4 17 -316
+A 5 11 -456
+A 7 0 123
+A 8 18 -931
+A 10 12 -30
+There exists no such planet.
+A 19 18 -931
+There exists no such planet.
+A 29 11 -456
+A 32 11 -456
+A 33 11 -456
+A 1 17 -316
+A 3 17 -316
+A 4 17 -316
+A 5 18 -973
+There exists no such planet.
+A 8 18 -973
+A 10 18 -973
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 11 -583
+A 32 18 -973
+A 33 18 -973
+A 1 17 -318
+A 3 17 -318
+A 4 17 -318
+A 5 18 -1075
+There exists no such planet.
+A 8 18 -1075
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 18 -1075
+There exists no such planet.
+A 33 18 -1075
+A 1 31 -265
+A 3 31 -265
+A 4 17 -336
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 24 28 79
+There exists no such planet.
+There exists no such planet.
+A 29 9 -498
+There exists no such planet.
+There exists no such planet.
+A 1 18 -1180
+A 3 18 -1180
+A 4 17 -334
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 24 28 76
+There exists no such planet.
+There exists no such planet.
+A 29 9 -505
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 1 18 -1234
+There exists no such planet.
+A 4 18 -1234
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 9 -514
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 1 13 42
+A 3 13 42
+A 4 13 42
+A 5 13 42
+A 7 13 42
+A 8 13 42
+A 10 13 42
+A 19 13 42
+A 23 13 42
+A 24 13 42
+A 27 13 42
+There exists no such planet.
+A 29 13 42
+A 31 13 42
+A 32 13 42
+A 33 13 42
+A 1 28 45
+A 3 28 45
+A 4 28 45
+A 5 28 45
+A 7 28 45
+A 8 28 45
+A 10 28 45
+A 19 28 45
+A 24 28 45
+A 27 28 45
+A 29 28 45
+A 31 28 45
+A 32 28 45
+A 33 28 45
+A 1 28 -219
+A 3 7 -145
+A 4 7 -145
+A 5 31 -142
+A 8 7 -145
+A 10 7 -145
+A 19 7 -145
+A 24 7 -145
+A 27 7 -145
+A 29 28 -219
+A 32 7 -145
+A 33 31 -142
+A 1 28 -270
+A 3 28 -270
+A 4 28 -270
+A 5 31 -174
+A 8 31 -174
+A 10 28 -270
+A 19 7 -322
+There exists no such planet.
+There exists no such planet.
+A 26 28 -270
+A 27 28 -270
+A 29 9 -507
+A 32 7 -322
+A 33 31 -174
+A 1 31 -220
+A 3 31 -220
+A 4 31 -220
+There exists no such planet.
+There exists no such planet.
+A 10 31 -220
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 9 -504
+There exists no such planet.
+There exists no such planet.
+A 1 31 -250
+A 3 31 -250
+A 4 31 -250
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 9 -508
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 4 31 -286
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 18 9 -505
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 9 -505
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 4 31 -286
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 18 9 -511
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 9 -511
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 4 31 -282
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 1 25 -948
+There exists no such planet.
+A 4 31 -289
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 25 -948
+There exists no such planet.
+A 33 25 -948
+There exists no such planet.
+There exists no such planet.
+A 4 21 -997
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 25 -1125
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 18 28 -388
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 4 17 -340
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 1 0 1
+A 3 0 1
+A 4 0 1
+A 5 0 1
+A 8 0 1
+A 9 0 1
+A 10 0 1
+A 18 0 1
+A 19 0 1
+A 23 0 1
+A 24 0 1
+A 26 0 1
+A 29 0 1
+A 32 0 1
+A 33 0 1
+A 1 0 -39
+A 3 0 -39
+A 4 0 -39
+A 5 26 -435
+A 8 26 -435
+A 9 0 -39
+A 10 0 -39
+A 13 0 -39
+A 18 0 -39
+A 19 26 -435
+A 23 0 -39
+A 24 0 -39
+A 29 26 -435
+A 32 26 -435
+A 33 26 -435
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 1 24 -24
+A 3 24 -24
+A 4 24 -24
+A 5 24 -24
+A 8 24 -24
+A 9 24 -24
+A 10 24 -24
+A 13 24 -24
+A 18 24 -24
+A 19 24 -24
+A 23 24 -24
+A 29 24 -24
+A 32 24 -24
+A 33 24 -24
+A 1 23 -99
+There exists no such planet.
+A 4 23 -99
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 4 21 -997
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 25 -1114
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 4 17 -343
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 25 -1132
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 4 31 -282
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 29 25 -1129
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 1 23 -91
+A 3 23 -91
+A 4 23 -91
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+A 1 28 -97
+A 3 28 -97
+A 4 28 -97
+A 5 28 -97
+A 7 28 -97
+A 8 28 -97
+A 9 28 -97
+A 10 28 -97
+A 11 28 -97
+A 13 28 -97
+There exists no such planet.
+A 18 28 -97
+A 19 28 -97
+A 20 28 -97
+A 21 28 -97
+There exists no such planet.
+A 25 28 -97
+A 26 28 -97
+A 27 28 -97
+A 29 28 -97
+A 30 28 -97
+A 31 28 -97
+A 32 28 -97
+A 33 28 -97
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
+There exists no such planet.
