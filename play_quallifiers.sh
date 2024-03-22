@@ -30,7 +30,6 @@ do
                 python3 display_banner.py "$team2"
 
                 java -jar Game.jar quallifiers/$group/$team1/bot1 quallifiers/$group/$team1/bot2 quallifiers/$group/$team2/bot1 quallifiers/$group/$team2/bot2 > game.log
-                # java -jar Game.jar quallifiers/$group/$team1/bot1 quallifiers/$group/$team1/bot2 quallifiers/$group/$team2/bot1 quallifiers/$group/$team2/bot2 > game.log
                 
                 read -p "write something to accept the game" key
                 if [ "$key" = "1" ]; then
