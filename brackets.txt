@@ -2,7 +2,13 @@ Bot 0
 SpaceY 0
 Rakija 0
 YuGo 0
-BananaBurek 0
-SofElen 0
+BananaBurek 2
+SofElen 1
 GarbageCollectors 0
 RustberryDuo 0
+
+
+GarbageCollectors 1
+RustberryDuo 0
+BananaBurek 2
+BananaBurek 2
