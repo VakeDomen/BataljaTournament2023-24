@@ -20,10 +20,15 @@ do
                 continue
             fi        
 
-            
 
             while [ 1 ]
             do
+                clear
+                python3 display_brackets.py
+                python3 display_banner.py "$team1"
+                python3 display_banner.py "VS"
+                python3 display_banner.py "$team2"
+
                 java -jar Game.jar quallifiers/$group/$team1/bot1 quallifiers/$group/$team1/bot2 quallifiers/$group/$team2/bot1 quallifiers/$group/$team2/bot2 > game.log
                 # java -jar Game.jar quallifiers/$group/$team1/bot1 quallifiers/$group/$team1/bot2 quallifiers/$group/$team2/bot1 quallifiers/$group/$team2/bot2 > game.log
                 
@@ -32,8 +37,6 @@ do
                     mv game.log quallifiers_games/$group/$team1-$team2.log
                     break
                 fi
-                
-
             done
         done
     done
