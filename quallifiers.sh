@@ -22,11 +22,15 @@ do
         python3 display_banner.py "VS"
         python3 display_banner.py "$team2"
 
+        echo "Next game in:"
+        for i in 5 4 3 2 1
+        do
+            echo $i
+            sleep 1
+        done
+
         java -jar Game.jar -fullScreen=true -replay=./quallifiers_games/$group/$game
         
-        read -p "write something to accept the game" key
-
-        sleep 4
-
+        
     done
 done
