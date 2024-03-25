@@ -7,7 +7,7 @@ def process_log_file(filepath):
     """Process a log file to find the winning team."""
     lines = None
     with open(filepath, 'r') as file:
-        lines = file.readlines()[-50:]  # Assuming the last 50 lines contain the relevant stats
+        lines = file.readlines()[-80:]  # Assuming the last 50 lines contain the relevant stats
 
     p1 = filepath.split(".")[0].split("/")[2].split("-")[0]
     p2 = filepath.split(".")[0].split("/")[2].split("-")[1]
