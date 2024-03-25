@@ -16,19 +16,23 @@ def generate_tournament_bracket(filename):
     max_length = max(max_length, 10)  # Ensure minimum placeholder length
 
     participants = [participant.ljust(max_length, ' ') for participant in participants]
-    
+
     playing = {
         8: [0, 1],
         9: [2, 3],
         10: [4, 5],
         11: [6, 7],
         12: [8, 9],
-        13: [10, 11],
-        14: [12, 13],
-        15: [14]
+        14: [10, 11],
+        16: [13, 15],
+        17: [12, 14],
+        18: [-1]
     }
     for participant in playing[num_of_pl]:
-        print(participants[participant])
+        if participant == -1:
+            print("END")
+        else:
+            print(participants[participant])
 
 
 # Example usage

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# testing flags
 qualifiers=0
 turny=1
 
@@ -21,5 +22,6 @@ if [ $turny -eq 1 ]; then
     cp brackets_base.txt brackets.txt
     clear
     echo
+    ./eliminations.sh
     python3 display_brackets.py
 fi

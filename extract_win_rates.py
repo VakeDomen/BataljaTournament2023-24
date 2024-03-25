@@ -16,9 +16,6 @@ def process_log_file(filepath):
     wins[p1] = 0
     wins[p2] = 0
 
-    # Filter lines that indicate a surviving bot
-    # survivors = [line for line in lines if 'survive: true' in line]
-    # winners = []
     watchingPlayer = None
     for line in lines:
         if p1 in line:
@@ -29,15 +26,6 @@ def process_log_file(filepath):
 
         if 'survive: true' in line:
             wins[watchingPlayer] = 1
-
-    # for line in survivors:
-    #     # Assuming team name is properly included before 'survive: true'
-    #     # and following a specific pattern in the stat line
-    #     parts = line.split('/')
-    #     if len(parts) > 2:
-    #         team_name = parts[-4]  # Adjust based on the actual structure of your lines
-    #         winners.append(team_name)
-
     return wins
 
 def calculate_win_rates(directory):

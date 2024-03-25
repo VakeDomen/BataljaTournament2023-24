@@ -18,12 +18,12 @@ do
         clear
         python3 display_banner.py "Group:   $group"
         python3 display_banner.py " "
-        python3 display_banner.py "$team1"
+        python3 display_banner.py "$team1" "green"
         python3 display_banner.py "VS"
-        python3 display_banner.py "$team2"
+        python3 display_banner.py "$team2" "cyan"
 
         echo "Next game in:"
-        for i in 5 4 3 2 1
+        for i in 10 9 8 7 6 5 4 3 2 1
         do
             echo $i
             sleep 1
